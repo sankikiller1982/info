@@ -21,7 +21,7 @@
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/angular.png",
+                    "icon": "images/skills/angular.svg",
                     "title": "Angular"
                 },
                 {
@@ -38,7 +38,7 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/google-apps-script.png",
+                    "icon": "images/skills/google-apps-script.svg",
                     "title": "Google App Script"
                 }
             ]
