@@ -1,6 +1,7 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/guiagalvez-poster.png",
             "title": "Guia Galvez",
             "bodyText": "Directorio de negocios y profesionales locales y de la region. Desarrollado desde cero con HTML, JavaScript y CSS.",
             "links": [
@@ -16,6 +17,7 @@
             ]
         },
         {
+            "image" : "images/projects/inmobiliariaborella-poster.png",
             "title": "Inmobiliaria Borella",
             "bodyText": "Sitio web de propiedades en venta y en alquiler para Inmobiliaria Borella.",
             "links": [
@@ -29,6 +31,7 @@
             ]
         },
         {
+            "image" : "images/projects/campopiaggio-poster.png",
             "title": "Campo Piaggio",
             "bodyText": "Sitio web de la comuna Campo Piaggio, informacion y servicios para la comunidad.",
             "links": [
