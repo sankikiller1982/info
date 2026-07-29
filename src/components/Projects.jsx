@@ -47,7 +47,7 @@ const Projects = (props) => {
                 className="btn-pill btn-ghost"
                 onClick={() => setShowMore(true)}
               >
-                Show more
+                Mostrar mas
               </button>
             </div>
           )}

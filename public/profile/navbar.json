@@ -6,31 +6,31 @@
     },
     "sections": [
         {
-            "title": "Home",
+            "title": "Inicio",
             "href": "/"
         },
         {
-            "title": "About",
+            "title": "Sobre mi",
             "href": "/about"
         },
         {
-            "title": "Skills",
+            "title": "Habilidades",
             "href": "/skills"
         },
         {
-            "title": "Education",
+            "title": "Educacion",
             "href": "/education"
         },
         {
-            "title": "Experience",
+            "title": "Experiencia",
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "Proyectos",
             "href": "/projects"
         },
         {
-            "title": "Resume",
+            "title": "CV",
             "href": "https://drive.google.com/drive/folders/1w-tUrEPllBqBuzCik3dFCMQ4kK5z2L5l?usp=sharing",
             "type": "link"
         }

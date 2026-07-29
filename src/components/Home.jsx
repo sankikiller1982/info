@@ -40,7 +40,7 @@ function Home() {
             )}
             <h1 className="hero-name">{data?.name}</h1>
             <div className="hero-roles">
-              <span>I&apos;m&nbsp;</span>
+              <span>Soy&nbsp;</span>
               <Typewriter
                 options={{
                   loop: true,
@@ -52,10 +52,10 @@ function Home() {
             {data?.tagline && <p className="hero-tagline">{data.tagline}</p>}
             <div className="hero-cta">
               <Link className="btn-pill btn-accent" to="/projects">
-                View my work
+                Ver mi trabajo
               </Link>
               <Link className="btn-pill btn-ghost" to="/about">
-                About me
+                Sobre mi
               </Link>
             </div>
           </div>
@@ -66,7 +66,7 @@ function Home() {
           </div>
 
           <div className="tile hero-social span-2">
-            <span className="tile-label">Find me</span>
+            <span className="tile-label">Encuentrame</span>
             <Social />
           </div>
         </div>
