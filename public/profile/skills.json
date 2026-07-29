@@ -10,6 +10,10 @@
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
                 }
         ]},
         {
@@ -53,5 +57,18 @@
                     "title": "Inkscape"
                 }
             ]
-    }
+        },
+        {
+            "title": "Herramientas Office",
+            "items": [
+                {
+                    "icon": "images/skills/word.png",
+                    "title": "Word"
+                },
+                {
+                    "icon": "images/skills/excel.png",
+                    "title": "Excel"
+                }
+            ]
+        }
 ]}
