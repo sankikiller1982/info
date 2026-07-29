@@ -55,6 +55,18 @@
                 {
                     "icon": "images/skills/inkscape.svg",
                     "title": "Inkscape"
+                },
+                {
+                    "icon": "images/skills/gimp.png",
+                    "title": "GIMP"
+                },
+                {
+                    "icon": "images/skills/photoshop.png",
+                    "title": "Photoshop"
+                },
+                {
+                    "icon": "images/skills/filmora.png",
+                    "title": "Filmora"
                 }
             ]
         },
