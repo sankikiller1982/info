@@ -4,11 +4,13 @@ import PropTypes from 'prop-types';
 import endpoints from '../constants/endpoints';
 import Header from './Header';
 import FallbackSpinner from './FallbackSpinner';
+import DetailModal from './DetailModal';
 import '../css/timeline.css';
 
 function Education(props) {
   const { header } = props;
   const [data, setData] = useState(null);
+  const [selected, setSelected] = useState(null);
 
   useEffect(() => {
     fetch(endpoints.education, {
@@ -27,10 +29,21 @@ function Education(props) {
           <Fade triggerOnce>
             <div className="tl tl--education">
               {data.education?.map((item) => (
-                <div className="tl-item" key={item.cardTitle + item.title}>
+                <div
+                  className="tl-item tl-item--clickable"
+                  key={item.cardTitle + item.title}
+                  onClick={() => setSelected(item)}
+                  role="button"
+                  tabIndex={0}
+                  onKeyDown={(e) => { if (e.key === 'Enter') setSelected(item); }}
+                >
                   <div className="tl-node--icon">
-                    {item.icon && (
-                      <img src={item.icon.src} alt={item.icon.alt} />
+                    {item.image ? (
+                      <img src={item.image} alt={item.cardTitle} />
+                    ) : (
+                      <span className="tl-thumb-placeholder">
+                        {item.cardTitle.charAt(0)}
+                      </span>
                     )}
                   </div>
                   <div className="tl-card">
@@ -49,6 +62,9 @@ function Education(props) {
           </Fade>
         </div>
       ) : <FallbackSpinner /> }
+      {selected && (
+        <DetailModal item={selected} onClose={() => setSelected(null)} />
+      )}
     </>
   );
 }

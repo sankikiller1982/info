@@ -132,3 +132,33 @@
 @media (max-width: 480px) {
   .tl-item { padding-left: 56px; }
 }
+
+/* Clickable timeline items with thumbnail */
+.tl-item--clickable {
+  cursor: pointer;
+}
+
+.tl-item--clickable .tl-card {
+  transition: transform var(--dur) var(--ease),
+    box-shadow var(--dur) var(--ease), border-color var(--dur) var(--ease);
+}
+
+.tl-item--clickable:hover .tl-card {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+}
+
+.tl-thumb-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 10px;
+}
