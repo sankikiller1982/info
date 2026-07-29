@@ -1,0 +1,64 @@
+{
+    "courses":[
+        {
+            "title": "2026",
+            "cardTitle": "Creacion vectorial con Inkscape",
+            "cardSubtitle":"40 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2026",
+            "cardTitle": "Inteligencia artificial para docentes",
+            "cardSubtitle":"12 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2025",
+            "cardTitle": "Unity 2D",
+            "cardSubtitle":"80 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2023",
+            "cardTitle": "Full Stack Desarrollo Web JavaScript y Node.js",
+            "cardSubtitle":"208 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2023",
+            "cardTitle": "Evaluacion y Big Data",
+            "cardSubtitle":"10 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2023",
+            "cardTitle": "Programacion Web",
+            "cardSubtitle":"40 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2023",
+            "cardTitle": "Taller de herramientas para educar desde la ESS",
+            "cardSubtitle":"40 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2022",
+            "cardTitle": "Trabajo colaborativo en la nube",
+            "cardSubtitle":"10 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2022",
+            "cardTitle": "Introduccion a la Geointeligencia Computacional",
+            "cardSubtitle":"40 horas",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2022",
+            "cardTitle": "Recursos digitales para la ensenanza (Plan Federal)",
+            "cardSubtitle":"10 horas",
+            "cardDetailedText": ""
+        }
+    ]
+}

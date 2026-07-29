@@ -16,6 +16,11 @@
             "headerTitle": "Educacion"
         },
         {
+            "component": "Courses",
+            "path": "/courses",
+            "headerTitle": "Capacitaciones"
+        },
+        {
             "component": "Experience",
             "path": "/experience",
             "headerTitle": "Experiencia"
