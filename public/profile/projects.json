@@ -43,6 +43,132 @@
             "tags" : [
                 "WordPress"
             ]
+        },
+        {
+            "title": "Producor Pecan",
+            "bodyText": "Sitio web corporativo para planta de pelado y almacenamiento de nueces pecan.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://producorpecan.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/mecherosgalvez-poster.png",
+            "title": "Mecheros Galvez",
+            "bodyText": "Sitio web de venta de mecheros y accesorios en Galvez.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://mecherosgalvez.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/cuecgalvez-poster.png",
+            "title": "CUEC Galvez",
+            "bodyText": "Sitio web del Centro Universitario de Educacion Complementaria de Galvez.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://cuecgalvez.com.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/tudivan-poster.png",
+            "title": "Tu Divan",
+            "bodyText": "Sitio web de venta de divanes y muebles.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://tudivan.com.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/galvezhistoria-poster.png",
+            "title": "Galvez Historia",
+            "bodyText": "Blog sobre la historia de la ciudad de Galvez, Santa Fe.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://galvezhistoria.blogspot.com/"
+                }
+            ],
+            "tags" : [
+                "Blogger"
+            ]
+        },
+        {
+            "image" : "images/projects/ceda-poster.png",
+            "title": "CEDA",
+            "bodyText": "Sitio web de CEDA - en construccion.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://ceda.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/ingenieriait-poster.png",
+            "title": "Ingenieria IT",
+            "bodyText": "Sitio web de servicios de ingenieria informatica y tecnologia.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://ingenieriait.com.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/ardelena-poster.png",
+            "title": "Ardeleña",
+            "bodyText": "Tienda online de espiedos y accesorios para cocinar a las brasas.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://www.xn--ardelea-9za.com/"
+                }
+            ],
+            "tags" : [
+                "Tienda Nube",
+                "E-commerce"
+            ]
+        },
+        {
+            "image" : "images/projects/laherradura-poster.png",
+            "title": "La Herradura Inmobiliaria",
+            "bodyText": "Sitio web de propiedades inmobiliarias.",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://laherradura-inmob.com.ar/"
+                }
+            ],
+            "tags" : [
+                "WordPress"
+            ]
         }
     ]
 }
