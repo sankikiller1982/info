@@ -1,74 +1,148 @@
 {
     "courses":[
         {
-            "title": "2026",
+            "title": "Jun 2026",
+            "cardTitle": "Planificacion de contenido para Redes Sociales",
+            "cardSubtitle":"Plataforma de Aprendizaje Virtual",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1A7UESEmWscKKaLK-fvh8IS0nt7vzs2LA/view"
+        },
+        {
+            "title": "Jun 2026",
             "cardTitle": "Creacion vectorial con Inkscape",
-            "cardSubtitle":"40 horas",
-            "cardDetailedText": "Curso de creacion vectorial utilizando Inkscape.",
-            "image": "images/skills/inkscape.svg"
+            "cardSubtitle":"Plataforma de Aprendizaje Virtual - 40 horas",
+            "cardDetailedText": "",
+            "image": "images/skills/inkscape.svg",
+            "diploma": "https://drive.google.com/file/d/1O89dh0sfvOwduWmugK8XO0QNIsZ2Hg5X/view"
         },
         {
-            "title": "2026",
+            "title": "Jun 2026",
             "cardTitle": "Inteligencia artificial para docentes",
-            "cardSubtitle":"12 horas",
-            "cardDetailedText": "Curso sobre aplicaciones de inteligencia artificial en el ambito educativo.",
-            "image": ""
+            "cardSubtitle":"Plataforma de Aprendizaje Virtual - 12 horas",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/12jSIrHQUgInHqac_VPyQVDMj_5HA95ym/view"
         },
         {
-            "title": "2025",
-            "cardTitle": "Unity 2D",
-            "cardSubtitle":"80 horas",
-            "cardDetailedText": "Curso de desarrollo de videojuegos 2D con Unity.",
-            "image": "images/skills/unity.svg"
+            "title": "Jun 2025",
+            "cardTitle": "Unity 2D - Talento Tech",
+            "cardSubtitle":"Ministerio de Educacion de Buenos Aires - 80 horas",
+            "cardDetailedText": "",
+            "image": "images/skills/unity.svg",
+            "diploma": "https://drive.google.com/file/d/18x52AknK8zWv4TQV-HvFBrtl-vlWEcA0/view"
         },
         {
-            "title": "2023",
+            "title": "Jun 2023",
             "cardTitle": "Full Stack Desarrollo Web JavaScript y Node.js",
-            "cardSubtitle":"208 horas",
-            "cardDetailedText": "Curso completo de desarrollo web Full Stack con JavaScript y Node.js.",
-            "image": "images/skills/nodejs.png"
+            "cardSubtitle":"Codo a Codo - 208 horas",
+            "cardDetailedText": "",
+            "image": "images/skills/nodejs.png",
+            "diploma": "https://drive.google.com/file/d/1JoN4ShtE0hRC_HwhHAP16DALyAYJnWc7/view"
         },
         {
             "title": "2023",
             "cardTitle": "Evaluacion y Big Data",
-            "cardSubtitle":"10 horas",
-            "cardDetailedText": "Curso sobre evaluacion de datos y Big Data.",
-            "image": ""
+            "cardSubtitle":"Punto Digital - 10 horas",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1WEDm9N8yLrrI5QQ9oDajFVcKEcmLU0gn/view"
         },
         {
             "title": "2023",
             "cardTitle": "Programacion Web",
-            "cardSubtitle":"40 horas",
-            "cardDetailedText": "Curso de programacion web con tecnologias frontend y backend.",
-            "image": "images/skills/js.png"
+            "cardSubtitle":"Punto Digital - 40 horas",
+            "cardDetailedText": "",
+            "image": "images/skills/js.png",
+            "diploma": "https://drive.google.com/file/d/1tsO0URqVtdZhi0wT66fV-gPdtodzGZh5/view"
+        },
+        {
+            "title": "Apr 2023",
+            "cardTitle": "Taller de herramientas para educar desde la ESS",
+            "cardSubtitle":"Universidad Nacional del Litoral - 40 horas",
+            "cardDetailedText": "",
+            "image": "images/education/unl.svg",
+            "diploma": "https://drive.google.com/file/d/18A5xQ2VfaWzTWRdljn9Q4Rm9Nt5mZL0X/view"
         },
         {
             "title": "2023",
-            "cardTitle": "Taller de herramientas para educar desde la ESS",
-            "cardSubtitle":"40 horas",
-            "cardDetailedText": "Taller sobre herramientas educativas desde la Economia Social Solidaria.",
-            "image": ""
-        },
-        {
-            "title": "2022",
             "cardTitle": "Trabajo colaborativo en la nube",
-            "cardSubtitle":"10 horas",
-            "cardDetailedText": "Curso sobre herramientas de trabajo colaborativo en la nube.",
-            "image": ""
+            "cardSubtitle":"Formar Cultura - 10 horas",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1qKV313Tb04jz8CCipOlWACOJTpBPYupw/view"
         },
         {
-            "title": "2022",
-            "cardTitle": "Introduccion a la Geointeligencia Computacional",
-            "cardSubtitle":"40 horas",
-            "cardDetailedText": "Curso introductorio a la geointeligencia computacional y sistemas de informacion geografica.",
-            "image": ""
+            "title": "Feb 2023",
+            "cardTitle": "Primeros pasos del desarrollo frontend",
+            "cardSubtitle":"Argentina Programa - INTI",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1mIAU9S7J0Ie0mW2JSGLXCRtI9A8Xfnrn/view"
         },
         {
-            "title": "2022",
+            "title": "Nov 2022",
             "cardTitle": "Recursos digitales para la ensenanza (Plan Federal)",
-            "cardSubtitle":"10 horas",
-            "cardDetailedText": "Curso sobre recursos digitales para la ensenanza en el marco del Plan Federal.",
-            "image": ""
+            "cardSubtitle":"INAP - 10 horas",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1R4V2MO2glVbE2W4snCs1EH5ITwYgbZYo/view"
+        },
+        {
+            "title": "Oct 2022",
+            "cardTitle": "1° Etapa #SeProgramar",
+            "cardSubtitle":"Argentina Programa - INTI",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1zCnP6w69RQ_4dkEbfRyt4imdsJutcR4z/view"
+        },
+        {
+            "title": "Jun 2022",
+            "cardTitle": "Introduccion a la Geointeligencia Computacional",
+            "cardSubtitle":"CENTROGEO - 40 horas",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1QSHUuh8BbvmzS5Bg1hrH4bxJVp2IOk5g/view"
+        },
+        {
+            "title": "Jun 2022",
+            "cardTitle": "Comunicacion y Medios (Plan Federal)",
+            "cardSubtitle":"INAP",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1LdUSDeEnp9jdPXCdhnIC-02ncVo5RA9K/view"
+        },
+        {
+            "title": "Ene 2022",
+            "cardTitle": "Produccion de Textos Administrativos (Plan Federal)",
+            "cardSubtitle":"INAP",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1Pw2W27OAlIeo9cTk_pYTB-cujWDaAYIY/view"
+        },
+        {
+            "title": "Jun 2021",
+            "cardTitle": "Big Data: haciendo hablar los datos (Programa Federal)",
+            "cardSubtitle":"INAP",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/1ayd1gewC3-jfa3Kqm7-9oZDnYTqaTokH/view"
+        },
+        {
+            "title": "2023",
+            "cardTitle": "Conceptos Fundamentales sobre Ciberseguridad",
+            "cardSubtitle":"Punto Digital",
+            "cardDetailedText": "",
+            "image": "",
+            "diploma": "https://drive.google.com/file/d/19yt8RMWczFKYod7H6Tc5DmB2TXVI1ZJr/view"
+        },
+        {
+            "title": "2023",
+            "cardTitle": "Microsoft Excel - Nivel Intermedio",
+            "cardSubtitle":"",
+            "cardDetailedText": "",
+            "image": "images/skills/excel.png",
+            "diploma": "https://drive.google.com/file/d/1oQzR8LtNSDNLSpolBVq93s-alM-knuzu/view"
         }
     ]
 }

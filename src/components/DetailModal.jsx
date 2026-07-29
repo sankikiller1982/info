@@ -33,8 +33,15 @@ function DetailModal({ item, onClose }) {
           {item.cardDetailedText && (
             <div className="modal-detail">{item.cardDetailedText}</div>
           )}
-          {item.description && (
-            <div className="modal-description">{item.description}</div>
+          {item.diploma && (
+            <a
+              href={item.diploma}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-pill btn-accent modal-diploma-btn"
+            >
+              Ver diploma
+            </a>
           )}
         </div>
       </div>
@@ -49,7 +56,7 @@ DetailModal.propTypes = {
     cardTitle: PropTypes.string,
     cardSubtitle: PropTypes.string,
     cardDetailedText: PropTypes.string,
-    description: PropTypes.string,
+    diploma: PropTypes.string,
   }).isRequired,
   onClose: PropTypes.func.isRequired,
 };

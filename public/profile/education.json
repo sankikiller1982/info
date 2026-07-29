@@ -5,21 +5,24 @@
             "cardTitle": "Tramo de Formacion Pedagogica",
             "cardSubtitle":"Universidad FASTA",
             "cardDetailedText": "Formacion Pedagogica para Profesionales y Tecnicos Superiores",
-            "image": "images/education/fasta.svg"
+            "image": "images/education/fasta.svg",
+            "diploma": "https://drive.google.com/file/d/1ApkaGl2BkeNa2naYufZfOStaXlmraG8Y/view"
         },
         {
             "title": "2019 - 2021",
             "cardTitle": "Tecnico en Informatica de Gestion",
             "cardSubtitle":"Universidad Nacional del Litoral (UNL)",
             "cardDetailedText": "Tecnicatura en Informatica de Gestion",
-            "image": "images/education/unl.svg"
+            "image": "images/education/unl.svg",
+            "diploma": "https://drive.google.com/file/d/1bBIwNSu-EjCpAz71R2ysIMxY5qWzA125/view"
         },
         {
             "title": "1996 - 2000",
             "cardTitle": "Perito Mercantil",
             "cardSubtitle":"Escuela Superior de Comercio N.o 44",
             "cardDetailedText": "Perito Mercantil",
-            "image": "images/education/escuela-comercio.svg"
+            "image": "images/education/escuela-comercio.svg",
+            "diploma": "https://drive.google.com/file/d/1OBHdE7cP6AwEksrGLPzzLO7qI_r7ARHq/view"
         }
     ]
 }
