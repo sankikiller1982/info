@@ -1,7 +1,6 @@
 {
     "intro": "Me encanta aprender cosas nuevas y experimentar con nuevas tecnologias.\nEstos son algunos de los lenguajes, tecnologias, herramientas y plataformas con los que he trabajado:",
     "skills": [{
-     
             "title": "Lenguajes",
             "items" : [
                 {
@@ -25,8 +24,16 @@
                     "title": "Angular"
                 },
                 {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                },
+                {
                     "icon": "images/skills/wordpress.png",
                     "title": "WordPress"
+                },
+                {
+                    "icon": "images/skills/unity.svg",
+                    "title": "Unity 2D"
                 }
             ]
         },
@@ -40,6 +47,10 @@
                 {
                     "icon": "images/skills/google-apps-script.svg",
                     "title": "Google App Script"
+                },
+                {
+                    "icon": "images/skills/inkscape.svg",
+                    "title": "Inkscape"
                 }
             ]
     }
