@@ -3,9 +3,9 @@
   "name": "Cristian Rodriguez - Portfolio",
   "icons": [
     {
-      "src": "images/logo.png",
-      "type": "image/png",
-      "sizes": "425x225"
+      "src": "images/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "200x200"
     }
   ],
   "start_url": ".",
