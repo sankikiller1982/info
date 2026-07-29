@@ -10,7 +10,6 @@ import '../css/projects.css';
 const Projects = (props) => {
   const { header } = props;
   const [data, setData] = useState(null);
-  const [showMore, setShowMore] = useState(false);
 
   useEffect(() => {
     fetch(endpoints.projects, {
@@ -21,8 +20,6 @@ const Projects = (props) => {
       .catch((err) => err);
   }, []);
 
-  const numberOfItems = showMore && data ? data.projects.length : 6;
-
   return (
     <>
       <Header title={header} />
@@ -30,7 +27,7 @@ const Projects = (props) => {
         <div className="section-content-container">
           <Fade triggerOnce>
             <div className="bento">
-              {data.projects?.slice(0, numberOfItems).map((project, index) => (
+              {data.projects.map((project, index) => (
                 <ProjectCard
                   key={project.title}
                   project={project}
@@ -39,18 +36,6 @@ const Projects = (props) => {
               ))}
             </div>
           </Fade>
-
-          {!showMore && data.projects?.length > numberOfItems && (
-            <div className="projects-more">
-              <button
-                type="button"
-                className="btn-pill btn-ghost"
-                onClick={() => setShowMore(true)}
-              >
-                Mostrar mas
-              </button>
-            </div>
-          )}
         </div>
       ) : <FallbackSpinner /> }
     </>
