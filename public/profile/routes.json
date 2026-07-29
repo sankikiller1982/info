@@ -3,7 +3,7 @@
         {
             "component": "About",
             "path": "/about",
-            "headerTitle": "Sobre mi"
+            "headerTitle": "Sobre mí"
         },
         {
             "component": "Skills",
@@ -13,7 +13,7 @@
         {
             "component": "Education",
             "path": "/education",
-            "headerTitle": "Educacion"
+            "headerTitle": "Educación"
         },
         {
             "component": "Courses",

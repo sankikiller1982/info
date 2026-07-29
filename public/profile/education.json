@@ -2,17 +2,17 @@
     "education":[
         {
             "title": "2021 - 2023",
-            "cardTitle": "Tramo de Formacion Pedagogica",
+            "cardTitle": "Tramo de Formación Pedagógica",
             "cardSubtitle":"Universidad FASTA",
-            "cardDetailedText": "Formacion Pedagogica para Profesionales y Tecnicos Superiores",
+            "cardDetailedText": "Formación Pedagógica para Profesionales y Técnicos Superiores",
             "image": "images/education/fasta.svg",
             "diploma": "https://drive.google.com/file/d/1ApkaGl2BkeNa2naYufZfOStaXlmraG8Y/view"
         },
         {
             "title": "2019 - 2021",
-            "cardTitle": "Tecnico en Informatica de Gestion",
+            "cardTitle": "Técnico en Informática de Gestión",
             "cardSubtitle":"Universidad Nacional del Litoral (UNL)",
-            "cardDetailedText": "Tecnicatura en Informatica de Gestion",
+            "cardDetailedText": "Tecnicatura en Informática de Gestión",
             "image": "images/education/unl.svg",
             "diploma": "https://drive.google.com/file/d/1bBIwNSu-EjCpAz71R2ysIMxY5qWzA125/view"
         },

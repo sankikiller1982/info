@@ -1,5 +1,5 @@
 {
-    "intro": "Me encanta aprender cosas nuevas y experimentar con nuevas tecnologias.\nEstos son algunos de los lenguajes, tecnologias, herramientas y plataformas con los que he trabajado:",
+    "intro": "Me encanta aprender cosas nuevas y experimentar con nuevas tecnologías.\nEstos son algunos de los lenguajes, tecnologías, herramientas y plataformas con los que he trabajado:",
     "skills": [{
             "title": "Lenguajes",
             "items" : [
@@ -17,7 +17,7 @@
                 }
         ]},
         {
-            "title": "Frameworks & Tecnologias",
+            "title": "Frameworks & Tecnologías",
             "items" : [
                 {
                     "icon": "images/skills/react.png",

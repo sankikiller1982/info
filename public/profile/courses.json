@@ -2,7 +2,7 @@
     "courses":[
         {
             "title": "Jun 2026",
-            "cardTitle": "Planificacion de contenido para Redes Sociales",
+            "cardTitle": "Planificación de contenido para Redes Sociales",
             "cardSubtitle":"Plataforma de Aprendizaje Virtual",
             "cardDetailedText": "",
             "image": "",
@@ -10,7 +10,7 @@
         },
         {
             "title": "Jun 2026",
-            "cardTitle": "Creacion vectorial con Inkscape",
+            "cardTitle": "Creación vectorial con Inkscape",
             "cardSubtitle":"Plataforma de Aprendizaje Virtual - 40 horas",
             "cardDetailedText": "",
             "image": "images/skills/inkscape.svg",
@@ -27,7 +27,7 @@
         {
             "title": "Jun 2025",
             "cardTitle": "Unity 2D - Talento Tech",
-            "cardSubtitle":"Ministerio de Educacion de Buenos Aires - 80 horas",
+            "cardSubtitle":"Ministerio de Educación de Buenos Aires - 80 horas",
             "cardDetailedText": "",
             "image": "images/skills/unity.svg",
             "diploma": "https://drive.google.com/file/d/18x52AknK8zWv4TQV-HvFBrtl-vlWEcA0/view"
@@ -42,7 +42,7 @@
         },
         {
             "title": "2023",
-            "cardTitle": "Evaluacion y Big Data",
+            "cardTitle": "Evaluación y Big Data",
             "cardSubtitle":"Punto Digital - 10 horas",
             "cardDetailedText": "",
             "image": "",
@@ -50,7 +50,7 @@
         },
         {
             "title": "2023",
-            "cardTitle": "Programacion Web",
+            "cardTitle": "Programación Web",
             "cardSubtitle":"Punto Digital - 40 horas",
             "cardDetailedText": "",
             "image": "images/skills/js.png",
@@ -90,7 +90,7 @@
         },
         {
             "title": "Nov 2022",
-            "cardTitle": "Recursos digitales para la ensenanza (Plan Federal)",
+            "cardTitle": "Recursos digitales para la enseñanza (Plan Federal)",
             "cardSubtitle":"INAP - 10 horas",
             "cardDetailedText": "",
             "image": "",
@@ -106,7 +106,7 @@
         },
         {
             "title": "Jun 2022",
-            "cardTitle": "Introduccion a la Geointeligencia Computacional",
+            "cardTitle": "Introducción a la Geointeligencia Computacional",
             "cardSubtitle":"CENTROGEO - 40 horas",
             "cardDetailedText": "",
             "image": "",
@@ -114,7 +114,7 @@
         },
         {
             "title": "Jun 2022",
-            "cardTitle": "Comunicacion y Medios (Plan Federal)",
+            "cardTitle": "Comunicación y Medios (Plan Federal)",
             "cardSubtitle":"INAP",
             "cardDetailedText": "",
             "image": "",
@@ -122,7 +122,7 @@
         },
         {
             "title": "Ene 2022",
-            "cardTitle": "Produccion de Textos Administrativos (Plan Federal)",
+            "cardTitle": "Producción de Textos Administrativos (Plan Federal)",
             "cardSubtitle":"INAP",
             "cardDetailedText": "",
             "image": "",

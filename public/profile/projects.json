@@ -2,8 +2,8 @@
     "projects" : [
         {
             "image" : "images/projects/guiagalvez-poster.png",
-            "title": "Guia Galvez",
-            "bodyText": "Directorio de negocios y profesionales locales y de la region. Desarrollado desde cero con HTML, JavaScript y CSS.",
+            "title": "Guía Gálvez",
+            "bodyText": "Directorio de negocios y profesionales locales y de la región. Desarrollado desde cero con HTML, JavaScript y CSS.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -33,7 +33,7 @@
         {
             "image" : "images/projects/campopiaggio-poster.png",
             "title": "Campo Piaggio",
-            "bodyText": "Sitio web de la comuna Campo Piaggio, informacion y servicios para la comunidad.",
+            "bodyText": "Sitio web de la comuna Campo Piaggio, información y servicios para la comunidad.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -60,8 +60,8 @@
         },
         {
             "image" : "images/projects/mecherosgalvez-poster.png",
-            "title": "Mecheros Galvez",
-            "bodyText": "Sitio web de venta de mecheros y accesorios en Galvez.",
+            "title": "Mecheros Gálvez",
+            "bodyText": "Sitio web de venta de mecheros y accesorios en Gálvez.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -75,7 +75,7 @@
         {
             "image" : "images/projects/cuecgalvez-poster.png",
             "title": "CUEC Galvez",
-            "bodyText": "Sitio web del Centro Union Empleados de Comercio de Galvez.",
+            "bodyText": "Sitio web del Centro Unión Empleados de Comercio de Gálvez.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -89,7 +89,7 @@
         {
             "image" : "images/projects/tudivan-poster.png",
             "title": "Tu Divan",
-            "bodyText": "Directorio de profesionales de la salud mental: psicologos, psiquiatras y mas.",
+            "bodyText": "Directorio de profesionales de la salud mental: psicólogos, psiquiatras y más.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -102,8 +102,8 @@
         },
         {
             "image" : "images/projects/galvezhistoria-poster.png",
-            "title": "Galvez Historia",
-            "bodyText": "Blog sobre la historia de la ciudad de Galvez, Santa Fe.",
+            "title": "Gálvez Historia",
+            "bodyText": "Blog sobre la historia de la ciudad de Gálvez, Santa Fe.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -117,7 +117,7 @@
         {
             "image" : "images/projects/ceda-poster.png",
             "title": "CEDA",
-            "bodyText": "Sitio web de CEDA - en construccion.",
+            "bodyText": "Sitio web de CEDA - en construcción.",
             "links": [
                 {
                     "text": "Sitio Web",
@@ -130,7 +130,7 @@
         },
         {
             "image" : "images/projects/ingenieriait-poster.png",
-            "title": "Ingenieria IT",
+            "title": "Ingeniería IT",
             "bodyText": "Empresa fabricante de aspiradoras y barredoras urbanas.",
             "links": [
                 {
@@ -145,7 +145,7 @@
         {
             "image" : "images/projects/ardelena-poster.png",
             "title": "Ardeleña",
-            "bodyText": "Tienda online de espiedos y accesorios para cocinar a las brasas.",
+            "bodyText": "Tienda online de espetos y accesorios para cocinar a las brasas.",
             "links": [
                 {
                     "text": "Sitio Web",
