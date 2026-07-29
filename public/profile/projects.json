@@ -45,6 +45,7 @@
             ]
         },
         {
+            "image" : "images/projects/producorpecan-poster.png",
             "title": "Producor Pecan",
             "bodyText": "Sitio web corporativo para planta de pelado y almacenamiento de nueces pecan.",
             "links": [
