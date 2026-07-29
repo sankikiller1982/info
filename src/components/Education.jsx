@@ -55,6 +55,17 @@ function Education(props) {
                     {item.cardDetailedText && (
                       <div className="tl-detail">{item.cardDetailedText}</div>
                     )}
+                    {item.diploma && (
+                      <a
+                        href={item.diploma}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="tl-diploma-link"
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        Ver diploma
+                      </a>
+                    )}
                   </div>
                 </div>
               ))}

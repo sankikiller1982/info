@@ -162,3 +162,22 @@
   background: var(--accent-soft);
   border-radius: 10px;
 }
+
+.tl-diploma-link {
+  display: inline-block;
+  margin-top: var(--space-3);
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 4px 14px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+
+.tl-diploma-link:hover {
+  background: var(--accent);
+  color: #fff;
+}
