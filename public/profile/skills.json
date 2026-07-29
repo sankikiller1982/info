@@ -1,62 +1,45 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "Me encanta aprender cosas nuevas y experimentar con nuevas tecnologias.\nEstos son algunos de los lenguajes, tecnologias, herramientas y plataformas con los que he trabajado:",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Lenguajes",
             "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Frameworks & Tecnologias",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/wordpress.png",
+                    "title": "WordPress"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "Herramientas & Plataformas",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/google-apps-script.png",
+                    "title": "Google App Script"
                 }
             ]
     }

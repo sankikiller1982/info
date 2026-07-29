@@ -1,5 +1,8 @@
 {
-    "name": "Your Name",
-    "roles": ["a Developer", "a Freelancer"],
-    "status": "Open to building cool things"
+    "name": "Cristian Rodríguez",
+    "roles": [
+        "Desarrollador Web",
+        "Freelancer"
+    ],
+    "status": "Disponible"
 }
