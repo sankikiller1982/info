@@ -1,6 +1,14 @@
 {
     "courses":[
         {
+            "title": "Ago 2026",
+            "cardTitle": "Power BI",
+            "cardSubtitle":"Santander Open Academy",
+            "cardDetailedText": "",
+            "image": "images/skills/powerbi.svg",
+            "diploma": "https://drive.google.com/file/d/1YNJLoXTSskjASH4z66YnloFmx0NGgvx4/view?usp=drive_link"
+        },
+        {
             "title": "Jun 2026",
             "cardTitle": "Planificación de contenido para Redes Sociales",
             "cardSubtitle":"Plataforma de Aprendizaje Virtual",
