@@ -51,11 +51,11 @@ function Home() {
             </div>
             {data?.tagline && <p className="hero-tagline">{data.tagline}</p>}
             <div className="hero-cta">
-              <Link className="btn-pill btn-accent" to="/projects">
-                Ver mi trabajo
+              <Link className="btn-pill btn-accent" to="/education">
+                Educación
               </Link>
-              <Link className="btn-pill btn-ghost" to="/about">
-                Sobre mi
+              <Link className="btn-pill btn-ghost" to="/courses">
+                Capacitaciones
               </Link>
             </div>
           </div>
